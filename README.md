@@ -47,6 +47,23 @@ distillata e ghiaccio.
 
 \subsection{Svolgimento}
 
-
+Si è iniziato l'esperimento rilevando la temperatura e la pressione del
+laboratorio; si è proceduto con la calibrazione della termocoppia, per fare
+ciò si immerso il termistore all'interno di un becker contenente del ghiaccio
+e si è registrato il valore della d.d.p a 0°C, si è poi proceduto a registrare
+i valori della d.d.p. a intervalli di circa 10°C fino al raggiungimento della
+temperatura di ebollizione, ciò è stato possibile tramite l'utilizzo
+dell'acqua distillata (per accellerare il processo di fusione del ghiaccio)
+prima, e di una resistenza (per portare il ghiaccio ormai fuso a temperatura
+di ebolizione) poi, si è inoltre continuato ha registrare tali valori negli
+stessi intervalli anche durante il raffreddamento; tramite queste due serie di
+misura è stato possibile stimare e confrontare tra loro due rette di
+regressione lineare, la prima di riscaldamento e la seconda di raffreddamento,
+e confrontare il parametro B ricavato (y=A+Bx) con il valore atteso $()$.
+Contemporaneamente alle misurazioni per la retta di regressione del 
+raffreddamento si è proceduto a registrare i valori della temperatura a 
+intervalli di tempo costanti, fatto ciò si è proceduto a stimare il parametro
+k della formula per il raffreddamento dell'acqua e della temperatura del 
+giunto freddo.
 
 \end{document}
