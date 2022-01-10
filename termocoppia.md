@@ -56,7 +56,9 @@ tali valori negli stessi intervalli anche durante il raffreddamento;
 tramite queste due serie di misura è stato possibile stimare e 
 confrontare tra loro due rette di regressione lineare, la prima di
 riscaldamento e la seconda di raffreddamento, e confrontare il
-parametro B ricavato (y=A+Bx) con il valore atteso $()$.
-Contemporaneamente alle misurazioni per la retta di regressione del raffreddamento si è proceduto a registrare i valori della temperatura a intervalli di tempo costanti, fatto ciò si è proceduto a stimare il parametro k della formula per il raffreddamento dell'acqua e della temperatura del giunto freddo.
-
-\end{document}
+parametro B ricavato tramite la formula:
+\[B= \frac{N\sum_{i=1}^{N}{x_{i}y_{i}}-\sum_{i=1}^{N}{x_{i}}\sum_{i=1}^{N}{x_{i}}}{\Delta}\ con\ \Delta=N\sum_{i=1}^{N}{x_{1}^2}-(\sum_{i=1}^{N}{x_{i}})^{2}\]
+(dove: B è il parametro della retta di regressione ddp=A+BT, N è il numero di misurazioni della temperatura T) con il valore atteso $()$.
+Contemporaneamente alle misurazioni per la retta di regressione del raffreddamento si è proceduto a registrare i valori della temperatura a intervalli di tempo costanti, fatto ciò si è proceduto a stimare il parametro k della formula per il raffreddamento dell'acqua e della temperatura del giunto freddo, ripettivamente:
+\[T(t)-T_{amb}=(T_{iniz}-T_{amb})e^{-kt}\ e\ T_{f}=\frac{-A}{B}\ con\ A= \frac{N\sum_{i=1}^{N}{x^2_{i}\sum_{i=1}^{N}y_{i}}-\sum_{i=1}^{N}{x_{i}}\sum_{i=1}^{N}{x_{i}y_{i}}}{\Delta}\]
+dove $T_{amb}$ indica la tempeatura ambiente, N il numero di misurazioni, A e B sono i parametri della retta di regressione percedentemente descritti, $T_{iniz}$ è la temperatura iniziale, $T_{f}$ è la temperatura finale, t indica il tempo e T(t) è la temperatura al tempo t .
